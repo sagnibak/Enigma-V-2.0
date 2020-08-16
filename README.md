@@ -5,7 +5,7 @@
   <img width="25%" src="https://github.com/Sam1431/Enigma/blob/master/enigma/haskell.png" />
 </p>  
 
-<h2><b>System Specs<b></h2>
+<h2> <b>System Specs<b> </h2>
 
 ***OS*** : Arch Linux
 
