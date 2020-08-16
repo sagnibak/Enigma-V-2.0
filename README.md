@@ -1,7 +1,7 @@
 # Enigma
 
 <p align="center">
-  <img width="25%" src="https://github.com/Sam1431/haskell.png" />
+  <img width="25%" src="https://github.com/Sam1431/enigma/haskell.png" />
 </p>  
 
 
