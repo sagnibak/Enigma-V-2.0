@@ -1,6 +1,8 @@
 # Enigma
 
-
+<p align="center">
+  <img width="25%" src="https://github.com/Sam1431/enigma/haskell.png" />
+</p>  
 
 
 ***- Enigma Lockscreen***
