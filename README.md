@@ -1,11 +1,11 @@
-***## Enigma***
+***##Enigma***
 
 
 <p align="center">
   <img width="25%" src="https://github.com/Sam1431/Enigma/blob/master/enigma/haskell.png" />
 </p>  
 
-***# System Specs**
+***#System Specs**
 
 ***OS*** : Arch Linux
 
