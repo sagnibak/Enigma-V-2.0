@@ -36,6 +36,10 @@
 
 ![2](https://user-images.githubusercontent.com/68412503/90327441-3a631980-dfb1-11ea-9f98-2a42f94db387.png)
 
-***- Enigma Workflow**
+***- Enigma Workflow***
 
 ![hi](https://user-images.githubusercontent.com/68412503/90327465-75fde380-dfb1-11ea-927c-5c11f9f8ecfb.png)
+
+***-Enigma SysInfo***
+
+![sysinfo](https://user-images.githubusercontent.com/68412503/90332736-1fa69a00-dfdd-11ea-99da-624d0209f811.png)
