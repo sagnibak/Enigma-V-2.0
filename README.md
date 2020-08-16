@@ -7,19 +7,19 @@
 
 <h2> <b>System Specs<b> </h2>
 
-<h4> <b>OS<b> </h4>: Arch Linux
+ <b>OS<b>: Arch Linux
 
-<h4> <b>SHELL<b> </h4>: Fish
+ <b>SHELL<b>: Fish
 
-<h4> <b>WINDOW MANAGER<b> </h4>: Xmonad
+ <b>WINDOW MANAGER<b>: Xmonad
 
-<h4> <b>TERMINAL<b> </h4>: Rxvt-Unicode
+ <b>TERMINAL<b>: Rxvt-Unicode
 
-<h4> <b>MAIN MENU<b> </h4>: Dmenu2
+ <b>MAIN MENU<b>: Dmenu2
 
-<h4> <b>FILE MANAGER<b> </h4>: Ranger
+ <b>FILE MANAGER<b>: Ranger
 
-<h4> <b>SYSINFO<b> </h4>: Gotop
+ <b>SYSINFO<b>: Gotop
 
 
 
