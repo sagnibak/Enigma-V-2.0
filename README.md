@@ -7,13 +7,21 @@
 
 ***# - System Specs**(
 
-***OS*** : Arch Linux 
+***OS*** : Arch Linux
+
 ***SHELL*** : Fish
+
 ***WINDOW MANAGER*** : Xmonad
+
 ***TERMINAL*** : Rxvt-Unicode
+
 ***MAIN MENU*** : Dmenu2 
+
 ***FILE MANAGER*** : Ranger
+
 ***SYSINFO*** : Gotop
+
+
 
 ***- Enigma Lockscreen***
 
