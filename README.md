@@ -23,23 +23,38 @@
 
 
 
-# Enigma Rice Setup Screenshot 
+# Enigma v-1 Rice Setup Screenshot 
 
 
 
-***- Enigma Lockscreen***
+***- Enigma Lockscreen V-1 ***
 
 ![lock](https://user-images.githubusercontent.com/68412503/90327411-f07a3380-dfb0-11ea-9e31-c0c0d2335c17.png)
 
 
-***- Enigma Neofetch***
+***- Enigma Neofetch V-1***
 
 ![2](https://user-images.githubusercontent.com/68412503/90327441-3a631980-dfb1-11ea-9f98-2a42f94db387.png)
 
-***- Enigma Workflow***
+***- Enigma Workflow V-1***
 
 ![hi](https://user-images.githubusercontent.com/68412503/90327465-75fde380-dfb1-11ea-927c-5c11f9f8ecfb.png)
 
-***-Enigma SysInfo***
+***-Enigma SysInfo V-1 ***
 
 ![sysinfo](https://user-images.githubusercontent.com/68412503/90332736-1fa69a00-dfdd-11ea-99da-624d0209f811.png)
+
+
+
+
+
+
+
+
+
+
+
+# Enigma V-2.0 Rice Setup Screenshot 
+<p align="center">
+  <vid width="25%" src="https://github.com/Sam1431/Enigma-V-2.0/blob/master/enigma/DASH_720.mp4"
+</p>
