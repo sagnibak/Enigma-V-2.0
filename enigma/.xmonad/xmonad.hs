@@ -44,7 +44,7 @@ import qualified DBus.Client as D
 
 myStartupHook = do
     spawn "$HOME/.xmonad/scripts/autostart.sh"
-    setWMName "DOOMWM"
+    setWMName "Enigma V-2.0 [CODENAME : LANCELOT] "
 
 -- colours
 normBord = "#4f4f4f"
@@ -63,8 +63,8 @@ encodeCChar = map fromIntegral . B.unpack
 myFocusFollowsMouse = True
 myBorderWidth = 3
 --myWorkspaces    = ["\61612","\61899","\61947","\61635","\61502","\61501","\61705","\61564","\62150","\61872"]
-myWorkspaces    = ["1","2","3","4","5","6","7","8","9","10"]
---myWorkspaces    = ["TERM","MUSIC","WEB","FILES","DEV"]
+--myWorkspaces    = ["1","2","3","4","5","6","7","8","9","10"]
+myWorkspaces    = ["TERM","MUSIC","WEB","FILES","DEV"]
 --myWorkspaces    = ["DEV","WWW","CNF","DOC","MEDIA","VBOX","CHAT","GFX"]
 
 myBaseConfig = desktopConfig
@@ -145,7 +145,7 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
   , ((modMask, xK_t), spawn $ "xkill" )
   , ((modMask, xK_v), spawn $ "exec urxvt -e vid" )
   , ((modMask, xK_y), spawn $ "polybar-msg cmd toggle" )
-  , ((modMask, xK_q), spawn $ "arcolinux-logout" )
+  , ((modMask, xK_q), spawn $ "quit" )
   , ((modMask, xK_Escape), spawn $ "demoji" )
   , ((modMask, xK_Return), spawn $ "dmenufm" )
   , ((modMask, xK_F1), spawn $ "vivaldi-stable" )
@@ -159,7 +159,7 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
   , ((modMask, xK_F9), spawn $ "evolution" )
   , ((modMask, xK_F10), spawn $ "spotify" )
   , ((modMask, xK_F11), spawn $ "rofi -show run -fullscreen" )
-  , ((modMask, xK_d), spawn $ "dmenu_recency -h 30 -l 10 -b -p Robin::chandra@robin: -w 1352 -x 7 -y 7 -o 0.9 -uh 4 -uc '#67a688'")
+  , ((modMask, xK_d), spawn $ "dmenu_recency -h 30 -l 10 -b -p "AppMenu:" -w 1352 -x 7 -y 7 -o 0.9 -uh 4 -uc '#67a688'")
 
   -- FUNCTION KEYS
   , ((0, xK_F12), spawn $ "xfce4-terminal --drop-down" )
@@ -183,8 +183,8 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
   , ((controlMask .|. mod1Mask , xK_f ), spawn $ "firefox")
   , ((controlMask .|. mod1Mask , xK_g ), spawn $ "chromium -no-default-browser-check")
   , ((controlMask .|. mod1Mask , xK_i ), spawn $ "nitrogen")
-  , ((controlMask .|. mod1Mask , xK_k ), spawn $ "arcolinux-logout")
-  , ((controlMask .|. mod1Mask , xK_l ), spawn $ "arcolinux-logout")
+  , ((controlMask .|. mod1Mask , xK_k ), spawn $ "quit")
+  , ((controlMask .|. mod1Mask , xK_l ), spawn $ "quit")
   , ((controlMask .|. mod1Mask , xK_m ), spawn $ "xfce4-settings-manager")
   , ((controlMask .|. mod1Mask , xK_o ), spawn $ "$HOME/.xmonad/scripts/picom-toggle.sh")
   , ((controlMask .|. mod1Mask , xK_p ), spawn $ "pamac-manager")
@@ -240,7 +240,7 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
 
   --SCREENSHOTS
 
-  , ((0, xK_Print), spawn $ "scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)'")
+  , ((0, xK_Print), spawn $ "scrot 'Arch-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)'")
   , ((controlMask, xK_Print), spawn $ "maim -d 5 %Y-%m-%d-%s.png" )
   , ((controlMask .|. shiftMask , xK_Print ), spawn $ "gnome-screenshot -i")
 
