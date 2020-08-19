@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="25%" src="https://github.com/Sam1431/Enigma/blob/master/enigma/haskell.png" />
+  <img width="25%" src="https://github.com/Sam1431/Enigma-V-2.0/blob/master/enigma/haskell.png" />
 </p>  
 
 <h2> <b>System Specs<b> </h2>
